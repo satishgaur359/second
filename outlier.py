@@ -19,5 +19,5 @@ const Job = (props) => {
       <h1> {props.company} </h1>
     </div>
   );
-};
-export default App;
+}
+export default App
